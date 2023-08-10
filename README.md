@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samp-le
 - 👀 I’m interested in Software Testing
-- 🌱 I’m currently learning APT and Automation
+- 🌱 I’m currently learning API Testing and Automation Testing
 - 💞️ I’m looking to collaborate on the who is working on such things
 - 📫 How to reach me - Rajput.Ankita2011@gmail.com
 
